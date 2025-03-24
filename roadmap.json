@@ -1,20 +1,68 @@
 [
-   {
-      "id":"1",
-      "title":"Combine sentences",
-      "status":"planned",
-      "description":"You can add a little bit of extra context here."
-   },
-   {
-      "id":"2",
-      "title":"Open with Finder support",
-      "status":"planned"
-   },
-   {
-      "id":"3",
-      "title":"Initial Launch",
-      "status":"finished",
-      "description":"Release v1 to the public.",
-      "isFinished":false
-   }
+  {
+    "id": "1",
+    "title": "Passing Probability Indicator",
+    "status": "Planned",
+    "description": "Get an estimated probability of passing the M1 test based on your performance in practice tests"
+  },
+  {
+    "id": "2",
+    "title": "Targeted Practice Mode",
+    "status": "Planned",
+    "description": "Focus only on the questions you previously answered incorrectly to improve weak areas"
+  },
+  {
+    "id": "3",
+    "title": "Practice Test Reminders",
+    "status": "Planned",
+    "description": "Set custom reminders to ensure you stay on track with your practice tests"
+  },
+  {
+    "id": "4",
+    "title": "M1 Licensing Guide",
+    "status": "Planned",
+    "description": "Step-by-step guidance on obtaining an M1 license, including requirements, tips, and what to expect"
+  },
+  {
+    "id": "5",
+    "title": "MTO Handbook Integration",
+    "status": "Planned",
+    "description": "Access the official MTO Handbook directly within the app for quick reference"
+  },
+  {
+    "id": "6",
+    "title": "Streak Tracking",
+    "status": "Planned",
+    "description": "Track your consistency and maintain study streaks to stay motivated"
+  },
+  {
+    "id": "7",
+    "title": "Expanded Language Support",
+    "status": "Planned",
+    "description": "Enhance accessibility with support for additional languages: Chinese, Hindi, French, Punjabi, Spanish, Portuguese"
+  },
+  {
+    "id": "8",
+    "title": "Reset Test Progress",
+    "status": "Planned",
+    "description": "Reset all saved test results and start fresh with a clean slate"
+  },
+  {
+    "id": "9",
+    "title": "Community Chat & Threads",
+    "status": "Planned",
+    "description": "Connect with other riders, ask questions, and share experiences in a dedicated community space"
+  },
+  {
+    "id": "10",
+    "title": "Ride Planning",
+    "status": "Planned",
+    "description": "Plan and coordinate rides with fellow motorcyclists based on location, skill level, and availability"
+  },
+  {
+    "id": "11",
+    "title": "Online Store",
+    "status": "Planned",
+    "description": "Browse and purchase motorcycle gear, safety equipment, and accessories directly from the app"
+  }
 ]
